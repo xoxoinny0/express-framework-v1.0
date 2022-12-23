@@ -1,0 +1,1 @@
+yarn add axios body-parser cookie-parser cors dayjs dotenv express express-session express-useragent method-override multer node-schedule node-thumbnail nodemailer serve-favicon serve-static winston winston-daily-rotate-file express-mysql-session
